@@ -9,6 +9,7 @@ import FileUpload from '../FileUpload/FileUpload';
 import LinearScale from '../LinearScale/LinearScale';
 import MultiGrid from '../MultiGrid/MultiGrid';
 import TickGrid from '../TickGrid/TickGrid';
+import Footer from '../Footer/Footer';
 
 
 const Home = () => {
@@ -26,6 +27,7 @@ const Home = () => {
                     <LinearScale/>
                     <MultiGrid/>
                     <TickGrid/>
+                    <Footer/>
                     
                 </div>
             </div>
