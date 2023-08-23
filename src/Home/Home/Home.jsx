@@ -2,6 +2,13 @@ import React from 'react';
 import Banner from '../Banner/Banner';
 import MCQ from '../MCQ/MCQ';
 import CheckBox from '../CheckBox/CheckBox';
+import ShortAnswer from '../ShortAnswer/ShortAnswer';
+import ParaGraph from '../ParaGraph/ParaGraph';
+import DropDown from '../DropDown/DropDown';
+import FileUpload from '../FileUpload/FileUpload';
+import LinearScale from '../LinearScale/LinearScale';
+import MultiGrid from '../MultiGrid/MultiGrid';
+import TickGrid from '../TickGrid/TickGrid';
 
 
 const Home = () => {
@@ -12,6 +19,14 @@ const Home = () => {
                     <Banner />
                     <MCQ />
                     <CheckBox/>
+                    <ShortAnswer/>
+                    <ParaGraph/>
+                    <DropDown/>
+                    <FileUpload/>
+                    <LinearScale/>
+                    <MultiGrid/>
+                    <TickGrid/>
+                    
                 </div>
             </div>
         </div>

@@ -16,6 +16,8 @@ const Banner = () => {
                     </div>
                     <img src="" alt="" className='my-5'/>
                     <p>The name and photo associated with your Google account will be recorded when you upload files and submit this form. Your email is not part of your response.</p>
+                    <hr className='mt-3 mb-2 bg-gray-500' />
+                    <p className='text-red-600 text-lg '><span className='text-red-600 font-semibold text-lg'>* </span>Indicates required question</p>
                 </div>
             </div>
         </div>

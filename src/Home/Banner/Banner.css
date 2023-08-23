@@ -8,7 +8,7 @@
 }
 .bgc{
     background-color: #fff;
-    height: 270px;
+    height: 280px;
     border-radius: 7px;
 }
 .bnc{
@@ -16,7 +16,17 @@
     height: 220px;
     border-radius: 7px;
 }
+.bfc{
+    background-color: #fff;
+    height: 110px;
+    border-radius: 7px;
+}
 
+.bdc{
+    background-color: #fff;
+    height: 120px;
+    border-radius: 7px;
+}
 .h1{
     font-size: 24pt;
     font-family: 'docs-Roboto', Helvetica, Arial, sans-serif;

@@ -64,36 +64,3 @@ const MCQ = () => {
 };
 
 export default MCQ;
-{/**const [isChecked, setIsChecked] = useState(true);
-
-  const toggleCheckbox = () => {
-    setIsChecked(!isChecked);
-  };
-    
-    return (
-
-        <div className="p-3 w-full">
-            <div className="relative ">
-                <div className="w-full bgc bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500  focus:ring-2 focus:ring-indigo-200 h-20 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out">
-                <p className='font-medium'>MCQ <span className='text-red-600 font-semibold text-lg'>*</span></p>
-                    <div className="form-control mt-5">
-                        <label className="cursor-pointer my-2">
-                            <input checked={isChecked}
-                            onChange={toggleCheckbox}type="checkbox" className={`cursor-pointer my-2 rounded-full ${isChecked ? 'text-purple-500' : 'text-white'}`} />
-                            <span className=" ml-8 text-lg font-normal">Option 1</span>
-                        </label>
-                        <label className="cursor-pointer  my-2">
-                            <input checked={isChecked}
-                            onChange={toggleCheckbox}type="checkbox" className={`cursor-pointer my-2 rounded-full ${isChecked ? 'text-purple-500' : 'text-white'}`} />
-                            <span className="ml-8 font-normal text-lg">Option 2</span>
-                        </label>
-                        <label className="cursor-pointer  my-2">
-                            <input checked={isChecked}
-                            onChange={toggleCheckbox}type="checkbox" className={`cursor-pointer my-2 rounded-full ${isChecked ? 'text-purple-500' : 'text-white'}`} />
-                            <span className="ml-8 font-normal text-lg">Option 3</span>
-                        </label>
-                    </div>
-                </div>
-            </div>
-        </div>
-    ); */}
