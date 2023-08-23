@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 ### Google Form Clone Task
 
 ### Client Side Github Link: https://github.com/IsmatJahanBijori/form-task
-### Client Side Live Link: 
+### Client Side Live Link: https://storied-praline-0145b7.netlify.app
